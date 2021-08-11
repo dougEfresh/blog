@@ -3,9 +3,7 @@
 ### A consensus breakdown.
 
 I'm having a discussion with my friend, Dylan, about bitcoin when he links me a video of Nassim's [black paper](). 
-I respect Nassim very much and enjoy his book Black Swan. 
-
-But his criticism of bitcoin are misguided. I want to purpose an alternative criticism that suits his immense knowledge of maths and statistics. 
+I respect Nassim very much and enjoy his book Black Swan. But his criticism of bitcoin are misguided. I propose an alternative criticism that suits his immense knowledge of maths and statistics. 
 
 ---
 
@@ -18,7 +16,6 @@ We both want a non-ambitious contract.
 
 $40,000 is rather clear. To be more specific we both agree that this is notes issued by the U.S. Federal Reserve system, aka a U.S. Federal Note. 
 January 1st is also well-defined. We can add a specific time in UTC with a public military atomic clock as our reference. 
-
 But what exactly is bitcoin? How do we define it in this contract?
 
 * The ticker symbol BTC on XYZ exchange. 
@@ -37,7 +34,7 @@ This seems better. But what if the owner doesn't sign or the PGP is changed? Als
 
 * I provide Dylan with a DNS/IP of a node I control
 
-This works for me. But that's a little unfair to Dylan. I'm defining what bitcoin is.
+This works for me. But that's a little unfair to Dylan. I'm defining bitcoin.
 There isn't a mutual agreement between us.
 
 * We agree upon a 3rd party node
@@ -51,7 +48,7 @@ This doesn't scale, and we have ourselves a market inefficiency.
 
 ## The Big Players
 
-Let's look at this from the big financial players' perspective: insurance, pension funds, soverign funds...etc
+Let's look at this from the big financial players' perspective: insurance, pension funds, sovereign funds...etc
 
 Suppose I want to start a bitcoin bank to provide basic loans and deposits with interest. 
 I would want to get some insurance as my competitors would do the same. 
@@ -67,8 +64,8 @@ What if there is a "Black Swan" event that results in an unclear definition for 
 What's the probability of this happening? 
 How would various parties (exchanges, banks, pensions, sovereign) react when they believe bitcoin is X but insurance thinks it is Y?
 
-In the book [Ascent of Money](https://en.wikipedia.org/wiki/The_Ascent_of_Money) a critical characteristic of a monetary system is easy agreement without ambiguity on the unit of account being exchanged.
-Clear consensus is very important and I fear that despite bitcoin's wonders from a technical consensus achievement, the humans will get confused and exit this market entirely. 
+In the book [Ascent of Money](https://en.wikipedia.org/wiki/The_Ascent_of_Money) a critical characteristic of a monetary system is easy agreement  on the unit of account being exchanged.
+Clear consensus is very important, and I fear that despite bitcoin's wonders from a technical consensus achievement, the humans will get confused and exit this market entirely. 
 
 Finally, what if someone creates another crypto such that there is a clear governance model with unambiguous definition of the unit of account? - (take this sentence out?)
 
