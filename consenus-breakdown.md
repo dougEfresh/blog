@@ -2,16 +2,16 @@
 
 ### A consensus breakdown.
 
-I'm having a discussion with my friend, Dylan, about bitcoin when he links me a video of Nassim's [black paper](). 
+I'm having a discussion with my friend, Dylan, about bitcoin when he links me a video of Nassim's [black paper](https://www.youtube.com/watch?v=XeG0FzPxSh4). 
 I respect Nassim very much and enjoy his book Black Swan. But his criticism of bitcoin are misguided. I propose an alternative criticism that suits his immense knowledge of maths and statistics. 
 
 ---
 
 ## A Simple Contract
 
-Let's start by examining a simple futures contract between my above mention friend, Dylan.
-I will give him $40,000 now and on January 1st 2022 he'll give me one bitcoin. Simple enough right?
-But let's put on our lawyer hat on; this is some serous money we're talking about.
+Let's start by creating a futures contract between me and my friend, Dylan.
+I will give him $40,000 now and on January 1st 2022 he'll give me one bitcoin.
+Let's put on our lawyer hat on as this is some serous money we're talking about.
 We both want a non-ambitious contract.
 
 $40,000 is rather clear. To be more specific we both agree that this is notes issued by the U.S. Federal Reserve system, aka a U.S. Federal Note. 
@@ -26,7 +26,7 @@ What if there's a soft/hard fork between now and Jan 1st? What if XYZ decides to
 * Predefined public address: XXXXXXXXXXXXX
 
 But what if some group of people fork bitcoin-core to run their own chain and supports all address forms of current bitcoin? 
-Dylan could just send one unit on whatever chain supports this address. I.e. the adress is just a hash number, it doesn't define bitcoin. 
+Dylan could just send one unit on whatever chain supports this address. I.e. the address is just a hashed number, it doesn't define bitcoin. 
 
 * Binary version from https://bitcoincore.org/en/download/ signed by this PGP 01EA5486DE18A882D4C2684590C8019E36C2E964
 
@@ -39,7 +39,7 @@ There isn't a mutual agreement between us.
 
 * We agree upon a 3rd party node
 
-Better but it's like the exchange senario above. Either one of use could get screwed. Or the 3rd party is shut down or blocks incoming connections.
+Better but it's like the exchange scenario above. Either one of use could get screwed. Or the 3rd party is shut down or blocks incoming connections.
 We can go on and maybe find a consensus. But our agreement isn't universal. Someone else could have a similar contract with a slightly different consenus. 
 I may want to sell this contract before Jan 1st. The buyer has to be fully aware the definition. 
 This doesn't scale, and we have ourselves a market inefficiency.
@@ -58,6 +58,10 @@ Most likely though, the insurance industry will just agree on a definition of bi
 to be traded in a secondary market.
 
 Seems like (potentially) the insurance industry could define bitcoin, not the worldwide nodes on the network.
+
+---
+
+## What are the Odds?
 
 The above is what I want Nassim to write/talk about: The risk of a total consensus breakdown, technical or human (not sure what word to us). 
 What if there is a "Black Swan" event that results in an unclear definition for bitcoin? 
